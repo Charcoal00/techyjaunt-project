@@ -31,7 +31,7 @@ This project provides a set of APIs to manage user authentication and registrati
 
 ### 2. Login in user
 
--   **Method:** `GET`
+-   **Method:** `POST`
 -   **Endpoint:** `{server}/login`
 -   **Purpose:** Allows existing users to log in using their email address and password.
 -   **Request Body Example:**
