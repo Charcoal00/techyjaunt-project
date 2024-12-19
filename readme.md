@@ -8,7 +8,7 @@ This project provides a set of APIs to manage user authentication and registrati
 
 ## Server Link
 
-**Base URL:** [https://ecadamy.onrender.com](https://ecadamy.onrender.com)
+**Base URL:** [https://techyjaunt-project.onrender.com](https://techyjaunt-project.onrender.com)
 
 ---
 
@@ -51,7 +51,6 @@ This project provides a set of APIs to manage user authentication and registrati
 -   **Request Body Example:**
     ```txt
       headers: {
-        'Content-Type': 'application/json',
         'Authorization': `Bearer ${token}`
       }
     ```
